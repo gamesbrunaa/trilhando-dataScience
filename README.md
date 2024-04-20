@@ -4,7 +4,11 @@ Bem-vindo ao repositório "Trilhando o Data Science"! Aqui você encontrará um 
 
 ## Sobre
 
-A Ciência de Dados é uma área empolgante que combina conhecimentos de programação, matemática, estatística e domínio de negócio para extrair insights valiosos a partir de dados. Este repositório foi criado para servir como um guia flexível e adaptável para estudantes e entusiastas de Data Science.
+A Ciência de Dados é uma disciplina interdisciplinar que visa extrair conhecimento e insights valiosos a partir de conjuntos de dados complexos. Essa área empolgante une habilidades de programação, estatística, matemática e compreensão de negócios para resolver problemas do mundo real e tomar decisões embasadas em dados.
+
+Meu interesse em Ciência de Dados floresceu após acompanhar diversos conteúdos da comunidade "Mulheres em Dados" e iniciar a disciplina de Sistemas Inteligentes na universidade. Através dessas experiências, pude perceber o poder transformador dos dados e como eles podem ser utilizados para impactar positivamente diversos setores, desde saúde e educação até finanças e marketing.
+
+Ao mergulhar nesse mundo fascinante, fiquei cativada pela capacidade da Ciência de Dados de revelar padrões ocultos, prever tendências futuras e fornecer insights significativos para a tomada de decisão. Isso despertou em mim uma paixão por explorar novas técnicas analíticas, aprimorar minhas habilidades técnicas e buscar soluções inovadoras. Este repositório foi criado como uma extensão desse interesse e compromisso com a aprendizagem contínua. Aqui, compartilharei recursos, projetos e inspirações que adquiro ao longo da minha jornada em Ciência de Dados, com a esperança de inspirar e ajudar outros entusiastas a também explorar esse emocionante campo.
 
 ## 📌 Estrutura do Repositório
 
@@ -22,10 +26,16 @@ Mantenho esta tabela atualizada com os cursos que estou fazendo ou planejando fa
 
 | Curso                      | Carga Horária | Data de Início | Data de Fim   | Status        |
 |----------------------------|--------------|----------------|---------------|---------------|
-| Introdução à Data Science  | 20 horas      | 01/01/2024     | 31/01/2024    | Concluído     |
-| Análise de Dados com Python| 40 horas      | 15/02/2024     | 30/03/2024    | Em andamento  |
-| Machine Learning Avançado  | 60 horas      | 10/04/2024     | 20/06/2024    | Planejado     |
-| Visualização de Dados      | 30 horas      | 01/07/2024     | 31/07/2024    | Planejado     |
+| [Introduction to Data Science](https://www.udacity.com/course/introduction-to-data-science--cd0017)  | 80 horas      | 21/04/2024     | 16/05/2024    | Em andamento    |
+| [Intro to Machine Learning](https://www.youtube.com/watch?v=Fpi3DPDMDa8&list=PLwnip85KhroXnYqk_ske2o3TgnQrLbMU6&ab_channel=MarioFilho)  | 20 horas      | 21/04/2024     | 01/05/2024    | Em andamento   |
+| [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)  | 72 horas      | 20/05/2024     | 06/06/2024    | Planejado   |
+| [SQL Server](https://www.youtube.com/playlist?list=PL7iAT8C5wumpQWB8AFW7CwK2nlzh8ZdP9)  | 20 horas      | 20/05/2024     | 30/05/2024    | Planejado   |
+| [Estatística Descritiva](https://www.youtube.com/playlist?list=PL7xT0Gz6G0-Rh3-UVhgatvP-a-3aC1ais) | 20 horas      | 31/05/2024     | 10/05/2024    | Planejado  |
+| [Curso R para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf) | 10 horas      | 12/05/2024     | 22/05/2024    | Planejado  |
+| [Curso R para Machine Learning](https://www.youtube.com/playlist?list=PLyqOvdQmGdTQpZlIpCxWtBGJlOJggzoZ3) | 10 horas      | 23/05/2024     | 02/06/2024    | Planejado  |
+| [Visualização de Dados](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)      | 72 horas      | 03/06/2024     | 30/06/2024    | Planejado     |
+
+* Observação: Não comecei por Python do básico, pois já possuía a base da universidade. E alguns cursos de estatisca e SQL são mais para revisar o que já tinha visto.
 
 
 ## 📌 Como Usar Este Repositório
@@ -34,9 +44,10 @@ Este repositório é uma ferramenta essencial que criei para facilitar minha jor
 
 À medida que mergulho em novos conceitos, descubro recursos úteis ou completo projetos, adiciono-os aqui para manter um registro organizado do meu progresso e para compartilhar o conhecimento que adquiri. Sinta-se à vontade para explorar, aprender e utilizar os recursos deste repositório em sua própria jornada de aprendizado em Data Science.
 
-## Desafios e Lições Aprendidas
-
-
+## ⏳ Desafios e Lições Aprendidas
+* 
+* 
+* 
 
 ## ❤️ Agradecimentos
 
@@ -51,7 +62,7 @@ Agora vamos trilhando juntos o caminho do conhecimento e da descoberta! Bons est
 
 ## Contato
 
-Se você quiser entrar em contato comigo ou quiser seguir minha jornada mais pertinho, pode me encontrar nas redes sociais:
+Se você quiser entrar em contato comigo ou quiser seguir minha jornada mais de pertinho, pode me encontrar nas redes sociais:
 
 - [LinkedIn](https://www.linkedin.com/in/gamesbrunaa/)
 - [Twitter](https://twitter.com/gamessbrunaa)
