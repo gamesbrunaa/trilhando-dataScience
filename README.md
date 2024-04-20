@@ -24,6 +24,11 @@ Ao mergulhar nesse mundo fascinante, fiquei cativada pela capacidade da Ciência
 
 Mantenho esta tabela atualizada com os cursos que estou fazendo ou planejando fazer. Sinta-se à vontade para usá-la como referência ou inspiração para sua própria jornada de estudos.
 
+- Qual será o prazo? 4 meses - 120 dias
+- Quantas horas semanais serão dedicadas? 20h/semanais
+- Dias da semana = 8h 
+- Finais de semana = 12h 
+
 | Curso                      | Carga Horária | Data de Início | Data de Fim   | Status        |
 |----------------------------|--------------|----------------|---------------|---------------|
 | [Introduction to Data Science](https://www.udacity.com/course/introduction-to-data-science--cd0017)  | 80 horas      | 21/04/2024     | 16/05/2024    | Em andamento    |
