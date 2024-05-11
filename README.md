@@ -31,8 +31,8 @@ Mantenho esta tabela atualizada com os cursos que estou fazendo ou planejando fa
 
 | Curso                      | Carga Horária | Data de Início | Data de Fim   | Status        |
 |----------------------------|--------------|----------------|---------------|---------------|
+| [Introdução a Machine Learning](https://ticemtrilhas.org.br/)  | 48 horas      | 08/05/2024     | 20/05/2024    | Em andamento    |
 | [Introduction to Data Science](https://www.udacity.com/course/introduction-to-data-science--cd0017)  | 80 horas      | 21/04/2024     | 16/05/2024    | Em andamento    |
-| [Intro to Machine Learning](https://www.youtube.com/watch?v=Fpi3DPDMDa8&list=PLwnip85KhroXnYqk_ske2o3TgnQrLbMU6&ab_channel=MarioFilho)  | 20 horas      | 21/04/2024     | 01/05/2024    | Em andamento   |
 | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science)  | 72 horas      | 20/05/2024     | 06/06/2024    | Planejado   |
 | [SQL Server](https://www.youtube.com/playlist?list=PL7iAT8C5wumpQWB8AFW7CwK2nlzh8ZdP9)  | 20 horas      | 20/05/2024     | 30/05/2024    | Planejado   |
 | [Estatística Descritiva](https://www.youtube.com/playlist?list=PL7xT0Gz6G0-Rh3-UVhgatvP-a-3aC1ais) | 20 horas      | 31/05/2024     | 10/05/2024    | Planejado  |
