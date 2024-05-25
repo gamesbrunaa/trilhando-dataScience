@@ -18,6 +18,7 @@ Ao mergulhar nesse mundo fascinante, fiquei cativada pela capacidade da Ciência
 - [Machine Learning](/machine-learning/)
 - [Visualização de Dados](/visualização-de-dados/)
 - [Projetos Práticos](/projetos/)
+- [Artigos](artigos/)
 - [Recursos Adicionais](/recursos-adicionais/)
 
 ## 📌 Cursos em Andamento ou Planejados
@@ -42,6 +43,10 @@ Mantenho esta tabela atualizada com os cursos que estou fazendo ou planejando fa
 
 * Observação: Não comecei por Python do básico, pois já possuía a base da universidade. E alguns cursos de estatisca e SQL são mais para revisar o que já tinha visto.
 
+## ⭐ Artigos
+
+Este repositório também contém alguns artigos meus, desenvolvidos durante os estudos sobre diversos tópicos de Data Science. Confira a seção de [Artigos](artigos/README.md) para mais informações.
+
 
 ## 📌 Como Usar Este Repositório
 
@@ -50,7 +55,7 @@ Este repositório é uma ferramenta essencial que criei para facilitar minha jor
 À medida que mergulho em novos conceitos, descubro recursos úteis ou completo projetos, adiciono-os aqui para manter um registro organizado do meu progresso e para compartilhar o conhecimento que adquiri. Sinta-se à vontade para explorar, aprender e utilizar os recursos deste repositório em sua própria jornada de aprendizado em Data Science.
 
 ## ⏳ Desafios e Lições Aprendidas
-* 
+* a importância de selecionar o modelo adequado para obter previsões precisas;
 * 
 * 
 
